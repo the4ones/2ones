@@ -51,7 +51,7 @@ var navbarHTML = `
    viewBox="0 0.587 494.972 413.945"
    version="1.1"
    id="svg5"
-   sodipodi:docname="logggo.svg"
+   sodipodi:docname="media/logggo.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -140,7 +140,7 @@ body.insertBefore(navbarDiv, body.firstChild);
 
 const texts = [
   "Ewww Homework whats that"
-  , "Rip 3kh0!"
+  , "Mentab is hot!"
   , "Now with a PR00000000000xy! "
   , "The site to cure Total boredness "
   , "A LOT OF GAMES!"
@@ -151,37 +151,37 @@ const texts = [
   , "insert text here"
   , "Placeholder text at its finest!"
   , "Unblocked!"
-  , "Welcome To Lunaar!"
-  , "Did you know we are open source? Fork US!"
-  , "https://discord.gg/fbjT5wG4za"
+  , "Welcome To Infinirt!"
+  , "School bad!"
+  , "discord: The2onestermed"
   , "404: Productivity not found."
   , "Snappier is bad at american truck simulator"
   , "Ctrl + Alt + Delete your worries."
   , "Oops! I broke it again. - doge"
   , "Gas Gas Gas"
   , "Ctrl+Z is my favorite key. - doge"
-  , "Join us on Discord: discord.gg/fbjT5wG4za"
-  , "Daniel gets no girls"
+  , "dstat"
+  , "skibidi"
   , "Pineapple Cow"
   , "chromebooks suck"
   , "Lorem ipsum"
   , "404: Brain not found."
-  , "technoblade never dies"
+  , "idk what to add"
   , "about:blank on top"
   , "Doge does not understand why this does not white"
-  , "cats are better"
-  , "thx sandwich"
-  , "Yup this is Julian."
+  , "2ones are better"
+  , "test"
+  , "Yup."
   , "better than interstellar"
   , "NodeJS on top!"
-  , "Julian Has a foot fetish"
+  , "bro what"
   , "Or what!"
   , "Geeeeeeeeeeeeeetar!!!!!!"
   , "Powerade Sucks!"
   , "Do not insert text here"
-  , "Sandwich Loves Metallica"
+  , "food good"
   , "Oh yeah or whatever"
-  , "the name lunaar is a tribute to my cat luna that has sadly passed away - doge"
+  , "ok buddy"
 , ];
 
 function getRandomIndex(max) {
@@ -292,12 +292,12 @@ window.addEventListener("load", function () {
 
 const art = `
 
-\x1b[35m██╗     ██╗   ██╗███╗   ██╗ █████╗  █████╗ ██████╗     ██╗   ██╗██╗  ██╗
-\x1b[35m██║     ██║   ██║████╗  ██║██╔══██╗██╔══██╗██╔══██╗    ██║   ██║██║  ██║
-\x1b[35m██║     ██║   ██║██╔██╗ ██║███████║███████║██████╔╝    ██║   ██║███████║
-\x1b[35m██║     ██║   ██║██║╚██╗██║██╔══██║██╔══██║██╔══██╗    ╚██╗ ██╔╝╚════██║
-\x1b[35m███████╗╚██████╔╝██║ ╚████║██║  ██║██║  ██║██║  ██║     ╚████╔╝      ██║
-\x1b[35m╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝      ╚═══╝       ╚═╝
+\x1b[35m uh oh
+\x1b[35m test
+\x1b[35m infinity
+\x1b[35m asdfasdfasdf
+\x1b[35m asdfasdfasdf
+\x1b[35m asdasdfasdf
 
 
 `;
